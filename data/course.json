@@ -1,0 +1,43 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f6c17b4d-ebca-c57a-48be-9660c5309169"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Extrasolar Planets: Physics and Detection Techniques",
+  "course_description": "This course covers the basic principles of planet atmospheres and interiors applied to the study of extrasolar planets (exoplanets). We focus on fundamental physical processes related to observable exoplanet properties. We also provide a quantitative overview of detection techniques and an introduction to the feasibility of the search for Earth-like planets, biosignatures and habitable conditions on exoplanets.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.425",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
